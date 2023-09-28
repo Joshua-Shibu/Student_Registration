@@ -1,0 +1,48 @@
+.heading{
+    margin-top: 60px;
+    margin-bottom: 0px;
+    background-color: rgb(169, 173, 173);
+}
+
+h1{
+    padding-left: 550px;
+}
+
+body{
+    background-image: url('background_img.png');
+}
+
+#radio{
+    margin-left: 65px;
+}
+
+#submit{
+    margin-left: 180px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+
+
+.output-container{
+    width: 400px;
+}
+
+#output{
+    position: relative;
+    background-color: white;
+    width: 400px;
+    height: 180px;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-left: 500px;
+    margin-top: -450px;
+
+}
+
+.positioned-image{
+    position: relative;
+    margin-left: 250px;
+    margin-top: -200px;
+    border-color: black;
+}
